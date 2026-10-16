@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'e3914-concept-v3-concept-v5-52-mobile-20261015';
+const CACHE_NAME = 'e3914-concept-v7-20261015';
 const ASSETS = [
   './',
   './index.html',
